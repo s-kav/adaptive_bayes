@@ -69,11 +69,11 @@ This repo presents a detailed performance analysis of **AdaptiveBayes** as a rep
 
 ### 1. AdaptiveBayes vs LogisticRegression Performance Comparison
 
-![Performance across benchmarks](./media/image2.png)
+![Performance across benchmarks](./results/adaptive_bayes_log_reg_comparison_results.png)
 
 ### 2. Model Performance: Accuracy vs Training Time
 
-![Accuracy vs Training Time](./media/image3.png)
+![Accuracy vs Training Time](./results/Model Performance Comparison - Accuracy vs Training Time.png)
 
 **Label shapes by dataset:**
 - ○ Circle — CreditCardFraud
@@ -92,17 +92,21 @@ This repo presents a detailed performance analysis of **AdaptiveBayes** as a rep
 - **Purple:** LightGBM
 - **Brown:** LogisticRegression
 
-### 3. Model Efficiency: Performance-to-Time Ratio
+### 3. Comprehensive Performance Comparison Across 12 Datasets
 
-![Efficiency comparison](./media/image4.png)
+![Comprehensive Performance Comparison](./results/Comprehensive Performance Comparison Across 12 Datasets - AdaptiveBayes vs. Baseline Models.png)
 
-### 4. Memory Usage Comparison Across Models
+### 4. Model Efficiency: Performance-to-Time Ratio
 
-![Memory Usage](./media/image5.png)
+![Efficiency comparison](./results/Model Efficiency - Performance-to-Time Ratio.png)
 
-### 5. Training vs Prediction Time Analysis
+### 5. Memory Usage Comparison Across Models
 
-![Train vs Prediction Time](./media/image6.png)
+![Memory Usage](./results/Memory Usage Comparison Across Models.png)
+
+### 6. Training vs Prediction Time Analysis
+
+![Train vs Prediction Time](./results/Training vs Prediction Time Analysis.png)
 
 ---
 
