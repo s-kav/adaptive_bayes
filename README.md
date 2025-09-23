@@ -73,7 +73,7 @@ This repo presents a detailed performance analysis of **AdaptiveBayes** as a rep
 
 ### 2. Model Performance: Accuracy vs Training Time
 
-![Accuracy vs Training Time](./results/Model Performance Comparison - Accuracy vs Training Time.png)
+![Accuracy vs Training Time](./results/Model_Performance_Comparison_Accuracy_Training_Time.png)
 
 **Label shapes by dataset:**
 - ○ Circle — CreditCardFraud
@@ -94,19 +94,19 @@ This repo presents a detailed performance analysis of **AdaptiveBayes** as a rep
 
 ### 3. Comprehensive Performance Comparison Across 12 Datasets
 
-![Comprehensive Performance Comparison](./results/Comprehensive Performance Comparison Across 12 Datasets - AdaptiveBayes vs. Baseline Models.png)
+![Comprehensive Performance Comparison](./results/Comprehensive_Performance_Comparison_12_Datasets_AdaptiveBayes_Baseline_Models.png)
 
 ### 4. Model Efficiency: Performance-to-Time Ratio
 
-![Efficiency comparison](./results/Model Efficiency - Performance-to-Time Ratio.png)
+![Efficiency comparison](./results/Model_Efficiency_Performance_Time_Ratio.png)
 
 ### 5. Memory Usage Comparison Across Models
 
-![Memory Usage](./results/Memory Usage Comparison Across Models.png)
+![Memory Usage](./results/Memory_Usage_Comparison_Across_Models.png)
 
 ### 6. Training vs Prediction Time Analysis
 
-![Train vs Prediction Time](./results/Training vs Prediction Time Analysis.png)
+![Train vs Prediction Time](./results/Training_Prediction_Time_Analysis.png)
 
 ---
 
