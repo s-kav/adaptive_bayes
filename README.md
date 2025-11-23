@@ -164,4 +164,16 @@ AdaptiveBayes shows promising computational efficiency and can replace LogisticR
 
 ---
 
+# Authors
+
+- [@sergiikavun](https://www.linkedin.com/in/sergii-kavun/)
+
+
+# References
+
+For citing you should use:
+
+Sergii Kavun. (2025). s-kav/adaptive_bayes: version 1.0. AdaptiveBayes vs LogisticRegression: Benchmark Analysis. Zenodo. https://doi.org/10.5281/zenodo.17184114
+
+[![DOI](https://zenodo.org/badge/1062498258.svg)](https://doi.org/10.5281/zenodo.17184114)
 
