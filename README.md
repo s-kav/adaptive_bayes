@@ -3,7 +3,6 @@
 [![Supports GPU and CPU](https://img.shields.io/badge/GPU%2FCPU-Supported-darkgreen?style=flat&logo=nvidia&logoColor=white)](https://pytorch.org/)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 [![PEP8](https://img.shields.io/badge/code%20style-pep8-orange.svg)](https://www.python.org/dev/peps/pep-0008/)
-![PyPI - Implementation](https://img.shields.io/pypi/implementation/adaptive_bayes)
 
 ## Overview
 
@@ -177,3 +176,7 @@ Sergii Kavun. (2025). s-kav/adaptive_bayes: version 1.0. AdaptiveBayes vs Logist
 
 [![DOI](https://zenodo.org/badge/1062498258.svg)](https://doi.org/10.5281/zenodo.17184114)
 
+Kavun, S. AdaptiveBayes: Comprehensive empirical analysis and algorithmic enhancement framework, Proceedings of the Cybersecurity Providing in Information and Telecommunication Systems (CPITS-II), Kyiv, Ukraine, October 26, 2025, pp. 149-178, CPITS II 2025, Vol. 4145 (URN: urn:nbn:de:0074-4145-x, EID: 2-s2.0-105037918936) 
+
+[![dblp](https://img.shields.io/badge/dblp-004F9F?logo=dblp&logoColor=fff&style=for-the-badge)](https://dblp.org/rec/conf/cpits/Kavun25)
+[![dblp](https://img.shields.io/badge/dblp-004F9F?logo=dblp&logoColor=fff&style=for-the-badge)](https://dblp.org/db/conf/cpits/cpits2025-2.html)
